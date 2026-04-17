@@ -59,3 +59,4 @@ InDoc-CLI utilizes a modular architecture. All configurations are handled via th
 This project is licensed under the MIT License.
 
 *Developed by Inxiske | Engineered for performance.*
+<img width="200" height="200" alt="InDoc-Cli-official new" src="https://github.com/user-attachments/assets/3820512d-9074-4a9f-9e00-80d886d97959" />
