@@ -1,6 +1,6 @@
 <img width="200" height="200" alt="InDoc-Cli-Normal" src="https://github.com/user-attachments/assets/c848bffd-f899-4934-a5d6-65fcd2a00b83" />
 
-# InDoc-CLI - *Intelligent Document*
+# InDoc-CLI - *Intelligent Document* `Powered by AI`
 
 ![System Ready](https://img.shields.io/badge/Status-System%20Ready-brightgreen)
 ![Version](https://img.shields.io/badge/Version-1.4.0-blue)
@@ -48,6 +48,8 @@ inx model gallery
 inx help
 ```
 <img width="1437" height="665" alt="Screenshot" src="https://github.com/user-attachments/assets/94ac3205-bdca-44b3-975c-d6fe3f74887a" />
+ 
+ `1.4.0 screenshot`
 
 
 ##  Configuration
