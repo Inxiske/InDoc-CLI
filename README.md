@@ -19,6 +19,19 @@
 * **Intelligent Documentation:** Automated generation of technical documentation directly from your source code.
 * **Seamless Integration:** Native Discord Rich Presence support for real-time activity tracking.
 
+---
+
+## 🛡 Security & Privacy
+InDoc-CLI operates entirely locally. Your source code, documentation, and project structures never leave your machine. By leveraging local Ollama instances, we ensure that your intellectual property remains under your absolute control.
+
+## 📈 Roadmap
+- [ ] Integrated RAG (Retrieval-Augmented Generation) for codebase Q&A.
+- [ ] Support for additional CLI engines beyond Ollama.
+- [ ] Export configurations to JSON/YAML for team synchronization.
+
+## 🤝 Contributing
+InDoc-CLI is built on the principle of engineering efficiency. Contributions are welcome—whether by submitting issues, proposing features, or refining the core engine. Let's build the future of automated documentation together.
+
 ##  Usage
 
 ```bash
