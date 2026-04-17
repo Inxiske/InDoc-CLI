@@ -16,11 +16,11 @@
 
 ## Why InDoc-CLI?
 
-- **🔒 Total Privacy**: Your code never leaves your machine. All processing is done locally via Ollama.
-- **⚡ Lightning Fast**: Just type `inx scan .` and get a complete architecture analysis of your project in seconds.
-- **🎯 Context-Aware**: InDoc-CLI understands your project's structure and generates meaningful documentation.
-- **🧠 Intelligent**: Powered by local LLMs (Llama3), it provides deep architectural insights, not just code comments.
-- **📦 Zero Dependencies**: No cloud accounts, no API keys, no monthly fees.
+- ** Total Privacy**: Your code never leaves your machine. All processing is done locally via Ollama.
+- ** Lightning Fast**: Just type `inx scan .` and get a complete architecture analysis of your project in seconds.
+- ** Context-Aware**: InDoc-CLI understands your project's structure and generates meaningful documentation.
+- ** Intelligent**: Powered by local LLMs (Llama3), it provides deep architectural insights, not just code comments.
+- ** Zero Dependencies**: No cloud accounts, no API keys, no monthly fees.
 
 ---
 
