@@ -1,4 +1,4 @@
-# InDoc-CLI
+# InDoc-CLI - *Intelligent Document*
 
 ![System Ready](https://img.shields.io/badge/Status-System%20Ready-brightgreen)
 ![Version](https://img.shields.io/badge/Version-1.4.0-blue)
@@ -29,6 +29,9 @@ inx model gallery
 # More details
 inx help
 ```
+<img width="1437" height="665" alt="Screenshot" src="https://github.com/user-attachments/assets/94ac3205-bdca-44b3-975c-d6fe3f74887a" />
+
+
 ##  Configuration
 InDoc-CLI utilizes a modular architecture. All configurations are handled via the inx command prefix, allowing for environment-specific model optimization (e.g., swapping between high-depth or high-speed configurations).
 
