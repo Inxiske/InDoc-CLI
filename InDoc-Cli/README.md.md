@@ -145,6 +145,6 @@ For questions, bug reports, or feature requests, please open an issue on GitHub.
 ---
 
 <p align="center">
-  <strong>InDoc-CLI</strong> — Code Analysis & Documentation, Locally.<br>
+  <strong>InDoc-CLI</strong>  Code Analysis & Documentation, Locally.<br>
   <em>Privacy-first. Speed-second-to-none. Built for developers.</em>
 </p>
