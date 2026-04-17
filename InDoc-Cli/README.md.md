@@ -1,3 +1,5 @@
+<img width="200" height="200" alt="InDoc-Cli-Normal" src="https://github.com/user-attachments/assets/3c795881-66e5-4bdd-9429-ae6a41d6d402" />
+
 # InDoc-CLI
 
 <p align="center">
