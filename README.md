@@ -30,7 +30,7 @@ InDoc-CLI operates entirely locally. Your source code, documentation, and projec
 - [ ] Export configurations to JSON/YAML for team synchronization.
 
 ## 🤝 Contributing
-InDoc-CLI is built on the principle of engineering efficiency. Contributions are welcome—whether by submitting issues, proposing features, or refining the core engine. Let's build the future of automated documentation together.
+InDoc-CLI is built on the principle of engineering efficiency. Contributions are welcome. whether by submitting issues, proposing features, or refining the core engine. Let's build the future of automated documentation together.
 
 ##  Usage
 
