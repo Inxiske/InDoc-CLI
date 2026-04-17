@@ -28,3 +28,11 @@ inx model gallery
 
 # More details
 inx help
+```
+##  Configuration
+InDoc-CLI utilizes a modular architecture. All configurations are handled via the inx command prefix, allowing for environment-specific model optimization (e.g., swapping between high-depth or high-speed configurations).
+
+## 🛡 License
+This project is licensed under the MIT License.
+
+*Developed by Inxiske | Engineered for performance.*
