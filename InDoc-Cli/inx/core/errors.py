@@ -1,0 +1,2 @@
+class IndocError(Exception):
+    pass

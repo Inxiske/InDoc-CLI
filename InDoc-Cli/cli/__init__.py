@@ -1,0 +1,1 @@
+"""InDoc-CLI CLI module."""

@@ -1,0 +1,45 @@
+# InDoc default ignore patterns
+# Dependencies / virtual env
+node_modules/
+venv/
+.venv/
+env/
+.git/
+__pycache__/
+dist/
+build/
+
+# Binary / archives
+*.exe
+*.dll
+*.so
+*.dylib
+*.bin
+*.o
+*.obj
+*.class
+*.jar
+*.zip
+*.tar
+*.gz
+*.7z
+*.rar
+
+# Logs / caches / databases
+*.log
+*.tmp
+*.cache
+*.db
+*.sqlite
+
+# Media / docs not relevant to code audit
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.ico
+*.pdf
+
+# OS metadata
+.DS_Store
+Thumbs.db

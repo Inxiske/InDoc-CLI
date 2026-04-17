@@ -1,0 +1,13 @@
+{
+  "tool": "InDoc",
+  "command": "scan",
+  "mode": "senior",
+  "root_path": "C:\\Users\\User\\OneDrive\\Documentos\\trae_projects\\LLM",
+  "model": "llama3.1:latest",
+  "timestamp": "2026-04-17 00:30:36",
+  "files_processed": 30,
+  "languages": 3,
+  "total_size": 156400,
+  "code_health": "mapped",
+  "security_status": "not-focused"
+}
