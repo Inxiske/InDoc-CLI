@@ -11,7 +11,7 @@
 
 ##  Key Features
 
-* **Zero-Touch Engine Setup:** InDoc-CLI automatically manages the Ollama lifecycle. No manual installation hurdles—the engine initializes, verifies, and scales on-demand.
+* **Zero-Touch Engine Setup:** InDoc-CLI automatically manages the Ollama lifecycle. No manual installation hurdles. the engine initializes, verifies, and scales on-demand.
 * **Full Model Lifecycle Management:** Browse, pull, and manage models directly from the CLI. No need to switch to a browser or terminal; the entire lifecycle is embedded in InDoc-CLI.
 * **Model Agnostic:** Not locked into a single provider. Switch seamlessly between any model installed on your system (e.g., Llama 3.2, Mistral, Phi-3) to balance depth vs. speed.
 * **High-Speed Auditing:** Rapid ingestion of project structures for comprehensive analysis.
